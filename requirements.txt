@@ -4,7 +4,6 @@ plotly.express == 0.4.1
 plotly == 5.5.0
 st_aggrid == AgGrid
 streamlit == 1.2.0
-streamlit-aggrid == 0.2.3.post2
 scikit-learn == 1.0.2 
 matplotlib == 3.5.1
 streamlit == 1.2.0
