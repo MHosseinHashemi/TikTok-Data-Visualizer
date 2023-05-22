@@ -11,7 +11,7 @@ The latest TikTok dataset from Kaggle was gathered for this project. Raw data wa
 
 
 # Solution Approach
-- Identified the problem of tumor detection.
+- Identified the problem.
 - Extracted use cases and requirements.
 
 ## Data Gathering and Exploration:
