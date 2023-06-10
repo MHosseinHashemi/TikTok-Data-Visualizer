@@ -31,8 +31,5 @@ The latest TikTok dataset from Kaggle was gathered for this project. Raw data wa
 - Utilized Streamlit to deploy the web application on the internet.
 - Provided an interactive interface for users to detect trends using the trained model.
 
-## Usage
-To run the web app locally, follow these steps:
-
 ## Acknowledgements
 I would like to express my gratitude to Nicholas Renotte for inspiring this project. His initial idea served as a foundation for my own implementation, allowing me to enhance the web app further.
